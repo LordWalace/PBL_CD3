@@ -1,0 +1,341 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_19|Q'
+Slack : -12.862
+TNS   : -29.874
+
+Type  : Setup 'A1'
+Slack : -6.141
+TNS   : -9.270
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_28|Q'
+Slack : -1.214
+TNS   : -1.214
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_11|Q'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_20|Q'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_3|Q'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_13|Q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_15|Q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_22|Q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_24|Q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_26|Q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_5|Q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_7|Q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_9|Q'
+Slack : 0.468
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_18|Q'
+Slack : 0.469
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_8|Q'
+Slack : 0.808
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_14|Q'
+Slack : 0.819
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_23|Q'
+Slack : 0.819
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_25|Q'
+Slack : 0.819
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_27|Q'
+Slack : 0.819
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_12|Q'
+Slack : 0.825
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_21|Q'
+Slack : 0.825
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_6|Q'
+Slack : 0.828
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_4|Q'
+Slack : 0.833
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_16|Q'
+Slack : 0.848
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_17|Q'
+Slack : 1.172
+TNS   : 0.000
+
+Type  : Setup 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_10|Q'
+Slack : 1.344
+TNS   : 0.000
+
+Type  : Setup 'clk'
+Slack : 2.954
+TNS   : 0.000
+
+Type  : Hold 'clk'
+Slack : -3.008
+TNS   : -3.008
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_19|Q'
+Slack : -2.123
+TNS   : -2.123
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_10|Q'
+Slack : -1.398
+TNS   : -1.398
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_17|Q'
+Slack : -1.226
+TNS   : -1.226
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_16|Q'
+Slack : -0.902
+TNS   : -0.902
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_4|Q'
+Slack : -0.887
+TNS   : -0.887
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_6|Q'
+Slack : -0.882
+TNS   : -0.882
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_12|Q'
+Slack : -0.879
+TNS   : -0.879
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_21|Q'
+Slack : -0.879
+TNS   : -0.879
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_14|Q'
+Slack : -0.873
+TNS   : -0.873
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_23|Q'
+Slack : -0.873
+TNS   : -0.873
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_25|Q'
+Slack : -0.873
+TNS   : -0.873
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_27|Q'
+Slack : -0.873
+TNS   : -0.873
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_8|Q'
+Slack : -0.862
+TNS   : -0.862
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_18|Q'
+Slack : -0.523
+TNS   : -0.523
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_9|Q'
+Slack : -0.522
+TNS   : -0.522
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_13|Q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_15|Q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_22|Q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_24|Q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_26|Q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_5|Q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_7|Q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_11|Q'
+Slack : -0.520
+TNS   : -0.520
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_20|Q'
+Slack : -0.520
+TNS   : -0.520
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_3|Q'
+Slack : -0.520
+TNS   : -0.520
+
+Type  : Hold 'A1'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Hold 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_28|Q'
+Slack : 1.660
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'A1'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'clk'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_10|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_11|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_12|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_13|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_14|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_15|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_16|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_17|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_18|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_19|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_20|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_21|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_22|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_23|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_24|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_25|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_26|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_27|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_28|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_3|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_4|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_5|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_6|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_7|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_8|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'DivisorFrequencia:comb_10|Flip_Flop_T:comb_9|Q'
+Slack : 0.234
+TNS   : 0.000
+
+------------------------------------------------------------
