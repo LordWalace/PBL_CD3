@@ -1,0 +1,14 @@
+module Novas_Saidas_ELE(B1, B0, At, A1, A2, A3, Su, De, PA, PF);
+
+	input B1, B0, At, A1, A2, A3;
+	output Su, De, PA, PF;
+
+	//Expressão F: Su = AndarB1 !AndarB0 !A2 A3 + !AndarB1 !AndarB0 !At A1 + !AndarB1 !At !A1 A2 + !AndarB1 !At !A1 A3												
+	
+	//Expressão F: De = AndarB1 At !A2 !A3 + AndarB1 A1 !A2 !A3 + AndarB1 AndarB0 A2 !A3 + !AndarB1 AndarB0 At !A1												
+	
+	//Expressão F: PA = AndarB1 A2 A3 + AndarB1 AndarB0 A3 + !AndarB1 AndarB0 A1 + !AndarB1 !AndarB0 At + AndarB1 !AndarB0 !At A2 + AndarB1 !AndarB0 !A1 A2												
+	
+	//Expressão F: PF = AndarB1AndarB0A2 + AndarB1AndarB0A1 + AndarB1AndarB0At + AndarB1AtA1A3 + AndarB1AndarB0AtA3 + AndarB1AndarB0A1A3 + AndarB1AndarB0A2A3																	
+
+endmodule
